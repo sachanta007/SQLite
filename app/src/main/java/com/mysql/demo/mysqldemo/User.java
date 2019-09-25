@@ -1,5 +1,10 @@
 package com.mysql.demo.mysqldemo;
 
+/**
+ * User Class to hold user's information,
+ * like name and address
+ */
+
 public class User {
     String name;
     String address;
